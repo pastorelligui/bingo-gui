@@ -1,0 +1,36 @@
+body {
+  background-color: #d0f2f0;
+}
+h1{
+  font-size: 200px;
+  color: blueviolet;
+  text-align: center;
+  
+}
+
+button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: absolute;
+  left: 620px;
+  border-radius: 20px;
+  
+}
+.button:hover {
+  background-color: #; /* Green */
+  color: white;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 150px;
+ }
